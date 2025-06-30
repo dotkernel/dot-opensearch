@@ -1,2 +1,2 @@
 # dot-opensearch
-integration of opensearch in DotKernel
+integration of opensearch in Dotkernel
